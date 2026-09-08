@@ -4,7 +4,7 @@ A small desktop browser built with C# and Microsoft WebView2 (Chromium), with a 
 
 The project started as an experiment in building a browser UI from scratch and gradually grew into a more complete browser with tabs, bookmarks, history, ad blocking, a Japanese dictionary, and a custom new-tab experience.
 
-![Sakura Aesthetic Browser](https://github.com/ronak200416/sakura-web-browser/releases/tag/exe)
+[Sakura Aesthetic Browser](https://github.com/ronak200416/sakura-web-browser/releases/tag/exe)
 
 ## What it includes
 
